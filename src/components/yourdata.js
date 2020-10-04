@@ -2,17 +2,17 @@ export default {
   //(Please Do Not Remove The comma(,) after every variable)
 
   //Change The Website Template
-  name: "chetanverma.",
+  name: "Bennami",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "info@bennami.com",
 
   // Landing Page Name
-  landingPageName: "Chetan Verma",
+  landingPageName: "Imane",
 
   // Landing Page Paragraph
   landingPagePara:
-    "Designer and front-end developer. I work as the Creative Director at WORK in India, while also taking on freelance projects that pique my interest.",
+    "I work as a web developer at Toolsquare, while also taking on freelance projects that pique my interest.",
 
   // Landing Page Image (replace - root/public/assets/photo.jpg)
   landingPageImage: "assets/photo.jpg",
